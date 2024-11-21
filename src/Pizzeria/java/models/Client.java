@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package models;
 
 public class Client {
     private String name;
